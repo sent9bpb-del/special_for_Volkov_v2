@@ -1,4 +1,4 @@
-# 🎓 EduPlatform - Образовательная Платформа
+# 🎓 SAPR Technology - Образовательная Платформа
 
 <div align="center">
 
